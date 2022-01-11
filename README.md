@@ -76,6 +76,7 @@ points by showing them in the map.
     ❗ To find your ip address, go to your terminal and type "ipconfig" and choose the ipv4 address.
     
     YEYYY! Your application is now working! 🎉
+    
     **Unresolved Problems** Unfortunately, in the mobile app we couldn't extract the location points in the map from the database.
    
   
