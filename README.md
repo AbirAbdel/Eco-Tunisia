@@ -45,25 +45,25 @@ points by showing them in the map.
     
     **-2** Clone this project and create an environment in your terminal.
     
-    **-3** In your terminal, go to your project directory then type:
+    **-3** In your terminal, go to your project directory then type
     
-          **3.1**  cd server
+       **-3.1**  cd server
           
-                   yarn install
+                 yarn install
              
-                   yarn dev
+                 yarn dev
              
-          **3.2**  cd web
+       **3.2**   cd web
           
-                   yarn install
+                 yarn install
                    
-                   yarn start
+                 yarn start
              
-          **3.3**  cd app
+       **3.3**   cd app
           
-                   yarn install
+                 yarn install
                    
-                   yarn start
+                 yarn start
              
     **-4** Change the ip adress in the files with your own ip address.
     
