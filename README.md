@@ -1,9 +1,14 @@
 # Eco-Tunisia
 Web and MOBILE project for trash collection.
+
 This project was realized by:
+
 -Noussayba Masseoud 
+
 -Nour Jebali 
+
 -Asma Ben Fredj 
+
 -Abir Abdelmoumen
 
 **Eco-Tunisia** is a project for smart cities that is divided in two parts.
