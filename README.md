@@ -13,16 +13,17 @@ This project was realized by:
 
 **Eco-Tunisia** is a project for smart cities that is divided in two parts.
 The first part is a web app which allows us to register collection points into a map 
-and indicates the type pf materials allowed.
-The second part is a mobile app which allows the uses to  search for the nearest 
+and indicates the type of materials allowed.
+The second part is a mobile app which allows the users to  search for the nearest 
 points by showing them in the map.
-## The technologies used are :
+## The used technologies are :
  - **Back end**
     - NodeJS
     - Express
     - Typescript
     - Sqlite
     - multer
+    - celebrate/Joi
   
   - **Front end**
     - ReactJS
@@ -52,7 +53,7 @@ points by showing them in the map.
     
     **-3** In your terminal, go to your project directory then type:
     
-       **3.1**  cd server
+       **3.1**   cd server
           
                  yarn install
              
@@ -72,7 +73,7 @@ points by showing them in the map.
              
     **-4** Change the ip adress in the files with your own ip address.
     
-    ❗ To find your ip address, go to your terminal and type "ipconfig" acn choose the ipv4 address.
+    ❗ To find your ip address, go to your terminal and type "ipconfig" and choose the ipv4 address.
              
              
     
