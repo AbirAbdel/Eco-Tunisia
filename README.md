@@ -41,6 +41,7 @@ points by showing them in the map.
     
     **How to execute this project in your machine**
     **-1** **First**, you have to install Node.js, React and React Native. 
+    
     **-2** Clone this project and create an environment in your terminal.
     **-3** In your terminal, go to your project directory then type:
     **3.1**  cd server
