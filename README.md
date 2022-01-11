@@ -11,7 +11,7 @@ The first part is a web app which allows us to register collection points into a
 and indicates the type pf materials allowed.
 The second part is a mobile app which allows the uses to  search for the nearest 
 points by showing them in the map.
-**The technologies used are :**
+## The technologies used are :
  - **Back end**
     - NodeJS
     - Express
@@ -39,7 +39,7 @@ points by showing them in the map.
     - expo-location
     - expo-mail-composer
     
-    **How to execute this project in your machine**
+    ## How to execute this project in your machine
     
     **-1** **First**, you have to install Node.js, React and React Native. 
     
