@@ -72,6 +72,10 @@ points by showing them in the map.
                  yarn start
              
     **-4** Change the ip adress in the files with your own ip address.
+           
+           For example, change this code "app.listen(4445,'192.168.1.124');" with "app.listen(4445,'XXX.YYY.ZZZ.WWW');"
+           
+           You wan also change the port used is the 4445 port in you case is already used.
     
     ❗ To find your ip address, go to your terminal and type "ipconfig" and choose the ipv4 address.
     
