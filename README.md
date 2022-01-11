@@ -67,7 +67,7 @@ points by showing them in the map.
              
     **-4** Change the ip adress in the files with your own ip address.
     
-           :exclamation: To find your ip address, go to your terminal and type "ipconfig" acn choose the ipv4 address.
+           ❗ To find your ip address, go to your terminal and type "ipconfig" acn choose the ipv4 address.
              
              
     
