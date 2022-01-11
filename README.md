@@ -75,7 +75,8 @@ points by showing them in the map.
     
     ❗ To find your ip address, go to your terminal and type "ipconfig" and choose the ipv4 address.
     You will have the structure below: 
-    !.[structure1](https://github.com/AbirAbdel/Eco-Tunisia/blob/be4eabbaa44dd805a59b0ecf2a3840aee134b23a/ecotun.PNG)
+    ![structure1](https://github.com/asmaa10-prog/Covoiturage-sig/blob/main/images/Structure1.PNG)
+    !.[structure1](https://github.com/AbirAbdel/Eco-Tunisia/blob/main/images/ecotun.PNG)
              
              
     
