@@ -74,10 +74,11 @@ points by showing them in the map.
     **-4** Change the ip adress in the files with your own ip address.
     
     ❗ To find your ip address, go to your terminal and type "ipconfig" and choose the ipv4 address.
-    You will have the structure below: 
+    
+    YEYYY! Your application is now working! 🎉
+    **Unresolved Problems** Unfortunately, in the mobile app we couldn't extract the location points in the map from the database.
    
-   ![structure1](https://github.com/asmaa10-prog/Covoiturage-sig/blob/main/images/Structure1.PNG)
-   !.[structure1](https://github.com/AbirAbdel/Eco-Tunisia/blob/main/images/ecotun.PNG)
+  
              
              
     
