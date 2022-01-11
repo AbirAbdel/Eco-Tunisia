@@ -47,7 +47,8 @@ points by showing them in the map.
     
     **-3** In your terminal, go to your project directory then type
     
-       **-3.1**  cd server
+       **-3.1**  
+                 cd server
           
                  yarn install
              
