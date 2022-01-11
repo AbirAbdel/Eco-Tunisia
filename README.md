@@ -47,15 +47,17 @@ points by showing them in the map.
     
     **-3** In your terminal, go to your project directory then type:
     
-    **3.1**  cd server
-             yarn install
-             yarn dev
+          **3.1**  cd server
+          
+                   yarn install
              
-    **3.2**  cd web
+                   yarn dev
+             
+          **3.2**  cd web
              yarn install
              yarn start
              
-    **3.3**  cd app
+          **3.3**  cd app
              yarn install
              yarn start
              
