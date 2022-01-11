@@ -79,6 +79,8 @@ points by showing them in the map.
     
     ❗ To find your ip address, go to your terminal and type "ipconfig" and choose the ipv4 address.
     
+    You winn have the same structure as below:
+    
     ![structure1](https://github.com/AbirAbdel/Eco-Tunisia/blob/560b61fe13ceb15a350253ce39e6de51a6e6e95a/ecotun.PNG)
     
     YEYYY! Your application is now working! 🎉
