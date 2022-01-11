@@ -54,12 +54,16 @@ points by showing them in the map.
                    yarn dev
              
           **3.2**  cd web
-             yarn install
-             yarn start
+          
+                   yarn install
+                   
+                   yarn start
              
           **3.3**  cd app
-             yarn install
-             yarn start
+          
+                   yarn install
+                   
+                   yarn start
              
     **-4** Change the ip adress in the files with your own ip address.
     
